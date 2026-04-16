@@ -16,6 +16,9 @@ const Navbar = () => {
         <Link to="/cart" className="nav-link">
           Mi Carrito
         </Link>
+        <Link to="/about" className="nav-link">
+          Acerca de
+        </Link>
       </div>
     </nav>
   );
