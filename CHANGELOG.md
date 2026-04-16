@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-16)
+
+
+### Features
+
+* agregar footer y pagina acerca de ([605849a](https://github.com/Glava6/frontend3-week5-activity/commit/605849a8085b99d51bfceab0b6796479d05551d8))
+
 # [1.2.0](https://github.com/JosephRangel/frontend3-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-13)
 
 
